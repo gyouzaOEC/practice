@@ -1,0 +1,3 @@
+imoport Math
+
+print(Math.random())
